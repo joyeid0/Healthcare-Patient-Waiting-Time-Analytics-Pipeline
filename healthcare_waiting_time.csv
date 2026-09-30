@@ -1,0 +1,8 @@
+
+
+Patient_ID,Department,Arrival_Time,Service_Time,Waiting_Time,Priority,Visit_Date
+1001,Emergency,08:00,08:40,40,High,2026-01-01
+1002,Cardiology,09:00,09:55,55,Medium,2026-01-01
+1003,Dental,10:00,10:20,20,Low,2026-01-01
+1004,Emergency,11:00,11:50,50,High,2026-01-02
+1005,Cardiology,12:00,12:45,45,Medium,2026-01-02
