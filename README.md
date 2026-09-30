@@ -40,6 +40,8 @@ The data is stored in CSV format and used as the raw data source.
 
 ## Workflow / Architecture
 
+![Architecture Diagram](giit.jpeg)
+
 The complete data pipeline follows these steps:
 
 Raw Healthcare Data (CSV)  
