@@ -200,3 +200,7 @@ The project successfully demonstrates:
 ✅ PASS/FAIL quality gate  
 ✅ Delta Lake storage  
 ✅ Healthcare analytics output
+## References
+
+- Saudi Data & AI Authority (SDAIA) Academy  
+  https://sdaia.gov.sa/en/Sectors/academy/Pages/default.aspx
